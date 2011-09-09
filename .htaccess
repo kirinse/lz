@@ -1,0 +1,19 @@
+<Files "api.php">
+Order Allow,Deny
+Deny from All
+</Files>
+
+<Files "extern.php">
+Order Allow,Deny
+Deny from All
+</Files>
+
+<Files "intern.php">
+Order Allow,Deny
+Deny from All
+</Files>
+
+<Files "track.php">
+Order Allow,Deny
+Deny from All
+</Files>

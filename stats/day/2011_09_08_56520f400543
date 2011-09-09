@@ -1,0 +1,2815 @@
+<table cellpadding="0" cellspacing="0" width="900">
+	<tr>
+		<td>
+			<table cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="header_line"><!--lang_stats_status_statistic_day--></td>
+					<td class="header_line" align="right">08.09.2011</td>
+				</tr>
+				<tr>
+					<td class="header_nav_line">&nbsp;&nbsp;<!--lang_stats_overview--></td>
+					<td class="header_nav_line" align="right">Status:&nbsp;&nbsp;<!--lang_stats_status_closed-->&nbsp;</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td>
+						<table cellspacing="0" cellpadding="0" class="main_stats" width="100%">
+							<tr>
+								<td class="main_stats_field" valign="top" width="24%">
+									<!--lang_stats_visitors-->
+									<table>
+										<tr>
+											<td><b>2</b>&nbsp;</td>
+											<td><div class="ico_trend_up"></div></td>
+										</tr>
+									</table>
+									<div>2 <em>unique</em> (100%)<br>1 <!--lang_stats_new--> (50%)<br>1 <!--lang_stats_recurring--> (50%)</div>
+								</td>
+								<td class="main_stats_field" valign="top" width="18%">
+									<!--lang_stats_bounce_rate-->
+									<table>
+										<tr>
+											<td><b>50%</b>&nbsp;</td>
+											<td><div class="ico_trend_up_r"></div></td>
+										</tr>
+									</table>
+									<div>1 <!--lang_stats_in_total--></div>
+								</td>
+								<td class="main_stats_field" valign="top" width="18%">
+									<!--lang_stats_conversion_rate-->
+									<table>
+										<tr>
+											<td><b>0%</b>&nbsp;</td>
+											<td><div class="ico_trend_const"></div></td>
+										</tr>
+									</table>
+									<div>0 <!--lang_stats_in_total--></div>
+								</td>
+								<td class="main_stats_field" valign="top" width="17%">
+									Chats
+									<table>
+										<tr>
+											<td><b>4</b>&nbsp;</td>
+											<td><div class="ico_trend_up"></div></td>
+										</tr>
+									</table>
+									<div>00:00:11 <!--lang_stats_chat_average_waiting_time--></div></td>
+								<td class="main_stats_field" valign="top" width="*">
+									<!--lang_stats_operator_availability-->
+									<table>
+										<tr>
+											<td><b>12.12%</b>&nbsp;</td>
+											<td><div class="ico_trend_up"></div></td>
+										</tr>
+									</table>
+									<div>02:54:28 <!--lang_stats_of--> 24:00:00</div>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td><br>
+						<table cellspacing="0" cellpadding="0" width="100%">
+							<tr>
+								<td width="33%" valign="top"><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header"></td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="2" width="100%">
+				<tr>
+					<td class="bt_column_header" width="*"><!--lang_stats_visitors--></td>
+					<td align="left" class="bt_column_header" width="85"><!--lang_stats_value--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+				</tr>
+				
+				<tr>
+					<td NOWRAP><!--lang_stats_page_impressions--></td>
+					<td align="left" NOWRAP>2</td>
+					<td align="center"><div class="ico_trend_up"></div></td>
+				</tr>
+
+				<tr>
+					<td NOWRAP><!--lang_stats_pages_per_visitor--></td>
+					<td align="left" NOWRAP>1</td>
+					<td align="center"><div class="ico_trend_const"></div></td>
+				</tr>
+
+				<tr>
+					<td NOWRAP><!--lang_stats_browser_instances--></td>
+					<td align="left" NOWRAP>6</td>
+					<td align="center"><div class="ico_trend_up"></div></td>
+				</tr>
+
+				<tr>
+					<td NOWRAP><!--lang_stats_browser_instances_per_visitor--></td>
+					<td align="left" NOWRAP>3</td>
+					<td align="center"><div class="ico_trend_up"></div></td>
+				</tr>
+
+				<tr>
+					<td NOWRAP><!--lang_stats_average_time_on_site--></td>
+					<td align="left" NOWRAP>01:25:34</td>
+					<td align="center"><div class="ico_trend_up"></div></td>
+				</tr>
+
+				<tr>
+					<td NOWRAP><!--lang_stats_average_time_on_page--></td>
+					<td align="left" NOWRAP>01:25:34</td>
+					<td align="center"><div class="ico_trend_up"></div></td>
+				</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<br><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header"></td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="2" width="100%">
+				<tr>
+					<td class="bt_column_header" width="*">Javascript</td>
+					<td align="left" class="bt_column_header" width="85"><!--lang_stats_value--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+				</tr>
+				
+				<tr>
+					<td NOWRAP><!--lang_stats_status_activated--></td>
+					<td align="left" NOWRAP>2 (100%)</td>
+					<td align="center"><div class="ico_trend_const"></div></td>
+				</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+</td>
+								<td width="10"></td>
+								<td valign="top" width="*"><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header"></td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="2" width="100%">
+				<tr>
+					<td class="bt_column_header" width="*">Chats</td>
+					<td align="left" class="bt_column_header" width="85"><!--lang_stats_value--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+				</tr>
+				
+				<tr>
+					<td NOWRAP><!--lang_stats_chat_page_opened--></td>
+					<td align="left" NOWRAP>4</td>
+					<td align="center"><div class="ico_trend_up"></div></td>
+				</tr>
+
+				<tr>
+					<td NOWRAP>Chats</td>
+					<td align="left" NOWRAP>4</td>
+					<td align="center"><div class="ico_trend_up"></div></td>
+				</tr>
+
+				<tr>
+					<td NOWRAP>Chats <!--lang_stats_accepted--></td>
+					<td align="left" NOWRAP>4 (100%)</td>
+					<td align="center"><div class="ico_trend_up"></div></td>
+				</tr>
+
+				<tr>
+					<td NOWRAP>Chats <!--lang_stats_declined--></td>
+					<td align="left" NOWRAP>0  (0%)</td>
+					<td align="center"><div class="ico_trend_const"></div></td>
+				</tr>
+
+				<tr>
+					<td NOWRAP><!--lang_stats_chat_average_time--></td>
+					<td align="left" NOWRAP>00:32:07</td>
+					<td align="center"><div class="ico_trend_up_r"></div></td>
+				</tr>
+
+				<tr>
+					<td NOWRAP><!--lang_stats_chat_average_waiting_time--></td>
+					<td align="left" NOWRAP>00:00:11</td>
+					<td align="center"><div class="ico_trend_up_r"></div></td>
+				</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<br><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header"></td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="2" width="100%">
+				<tr>
+					<td class="bt_column_header" width="*"><!--lang_stats_advertising_value--></td>
+					<td align="left" class="bt_column_header" width="85"><!--lang_stats_value--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+				</tr>
+				
+				<tr>
+					<td NOWRAP>0,50 EUR</td>
+					<td align="left" NOWRAP>0.00 EUR</td>
+					<td align="center"><div class="ico_trend_up"></div></td>
+				</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+</td>
+								<td width="10"></td>
+								<td width="33%" valign="top"><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header"></td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="2" width="100%">
+				<tr>
+					<td class="bt_column_header" width="*"><!--lang_stats_traffic_sources--></td>
+					<td align="left" class="bt_column_header" width="85"><!--lang_stats_value--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+				</tr>
+				
+				<tr>
+					<td NOWRAP><!--lang_stats_search_engines--></td>
+					<td align="left" NOWRAP>0%</td>
+					<td align="center"><div class="ico_trend_const"></div></td>
+				</tr>
+
+				<tr>
+					<td NOWRAP><!--lang_stats_referrer--></td>
+					<td align="left" NOWRAP>0%</td>
+					<td align="center"><div class="ico_trend_const"></div></td>
+				</tr>
+
+				<tr>
+					<td NOWRAP><!--lang_stats_direct_access--></td>
+					<td align="left" NOWRAP>100%</td>
+					<td align="center"><div class="ico_trend_const"></div></td>
+				</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td valign="top"><a name="ogoals"><br></a><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_goals--></span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0" style="display:none;">
+							<tr>
+								<td valign="top"><div onClick="expandBlock('',true);" class="header_link"><!--lang_stats_expand_all--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div onClick="expandBlock('',false);" class="header_link"><!--lang_stats_collapse_all--></div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="12" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_goals--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19"></td>
+		<td NOWRAP><!--lang_stats_none--></td>
+		<td align="center" valign="middle"><div class="ico_trend_const"></div></td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<br></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	
+		<tr>
+		<td>
+			<a name="ooperators"></a>
+			<br>
+			<table cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="header_line"><!--lang_stats_by_operators--></td>
+				</tr>
+				<tr>
+					<td class="header_nav_line">
+						<table cellspacing="0" cellpadding="0">
+							<tr>
+								<td>&nbsp;&nbsp;</td>
+								<td style="display:;"><a href="#oavailability"><!--lang_stats_operator_availability--></a></td>
+								<td style="display:;">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td style="display:;"><a href="#ochats"><!--lang_stats_chats--></a></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td valign="top"><a name="oavailability"></a><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_operator_availability--></span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0" style="display:none;">
+							<tr>
+								<td valign="top"><div onClick="expandBlock('',true);" class="header_link"><!--lang_stats_expand_all--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div onClick="expandBlock('',false);" class="header_link"><!--lang_stats_collapse_all--></div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="12" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_operator--></td>
+					<td align="center" class="bt_column_header" width="25">&nbsp;</td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP>Paul</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>02:54:28</td>
+		<td align="center" NOWRAP>12.12%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -88px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">2</td>
+		<td NOWRAP>HEBE</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">3</td>
+		<td NOWRAP>Alice</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">4</td>
+		<td NOWRAP>CICY</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">5</td>
+		<td NOWRAP>LYNN</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<br></td>
+				</tr>
+			</table>
+			<table cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td valign="top"><a name="ochats"></a><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header">Chats</span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0" style="display:none;">
+							<tr>
+								<td valign="top"><div onClick="expandBlock('',true);" class="header_link"><!--lang_stats_expand_all--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div onClick="expandBlock('',false);" class="header_link"><!--lang_stats_collapse_all--></div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="12" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_operator--></td>
+					<td align="center" class="bt_column_header" width="25">&nbsp;</td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP>Paul</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>4 (0)</td>
+		<td align="center" NOWRAP>100%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -0px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">2</td>
+		<td NOWRAP>HEBE</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">3</td>
+		<td NOWRAP>Alice</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">4</td>
+		<td NOWRAP>CICY</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">5</td>
+		<td NOWRAP>LYNN</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<br></td>
+				</tr>
+			</table>
+			<table cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td valign="top"><a name="oduration"></a><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_chat_average_duration--></span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0" style="display:none;">
+							<tr>
+								<td valign="top"><div onClick="expandBlock('',true);" class="header_link"><!--lang_stats_expand_all--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div onClick="expandBlock('',false);" class="header_link"><!--lang_stats_collapse_all--></div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="12" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_operator--></td>
+					<td align="center" class="bt_column_header" width="25">&nbsp;</td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP>Paul</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>01:27:48</td>
+		<td align="center" NOWRAP>100%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -0px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">2</td>
+		<td NOWRAP>HEBE</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">3</td>
+		<td NOWRAP>Alice</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">4</td>
+		<td NOWRAP>CICY</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">5</td>
+		<td NOWRAP>LYNN</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<br></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+
+	<!--months-->
+	
+		<tr>
+		<td>
+			<a name="hhours">
+			<br>
+			<table cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="header_line"><!--lang_stats_by_hours--></td>
+				</tr>
+				<tr>
+					<td class="header_nav_line">
+						<table cellspacing="0" cellpadding="0">
+							<tr>
+								<td>&nbsp;&nbsp;</td>
+								<td style="display:;"><a href="#hvisitors"><!--lang_stats_visitors_and_pages--></a></td>
+								<td style="display:;">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td style="display:;"><a href="#hchats"><!--lang_stats_chats_and_availability--></a></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td width="440" valign="top"><a name="hvisitors"></a><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_visitors--></span></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="2" width="100%">
+				<tr>
+					<td class="bt_column_header" width="12">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_hour--></td>
+					<td align="center" class="bt_column_header" width="50" NOWRAP><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>00:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>01:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>02:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>03:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>04:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>05:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>06:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>07:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>08:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>09:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>10:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>11:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>12:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>13:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>14:00</td>
+		<td align="center" NOWRAP>1</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -0px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>15:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>16:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>17:00</td>
+		<td align="center" NOWRAP>1</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -0px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>18:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>19:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>20:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>21:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>22:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>23:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<br></td>
+					<td width="*">&nbsp;</td>
+					<td width="440" valign="top" align="right"><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_page_impressions--></span></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="2" width="100%">
+				<tr>
+					<td class="bt_column_header" width="12">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_hour--></td>
+					<td align="center" class="bt_column_header" width="50" NOWRAP><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>00:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>01:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>02:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>03:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>04:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>05:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>06:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>07:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>08:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>09:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>10:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>11:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>12:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>13:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>14:00</td>
+		<td align="center" NOWRAP>2</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -0px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>15:00</td>
+		<td align="center" NOWRAP>2</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -0px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>16:00</td>
+		<td align="center" NOWRAP>1</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -50px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>17:00</td>
+		<td align="center" NOWRAP>1</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -50px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>18:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>19:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>20:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>21:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>22:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td NOWRAP>23:00</td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<br></td>
+				</tr>
+				<tr>
+					<td valign="top" colspan="3"><a name="hchats"></a><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header">Chats</span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0" style="display:;">
+							<tr>
+								<td valign="top"><div onClick="expandBlock('cbh',true);" class="header_link"><!--lang_stats_expand_all--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div onClick="expandBlock('cbh',false);" class="header_link"><!--lang_stats_collapse_all--></div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="12" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_hour--></td>
+					<td align="center" class="bt_column_header" width="25">&nbsp;</td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>00:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>01:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>02:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>03:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>04:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>05:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>06:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>07:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>08:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>09:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>10:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>11:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>12:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>13:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP><a href="javascript:switchRowVisibility('cbh_14');"><b>14:00</b></a></td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>1 (0)</td>
+		<td align="center" NOWRAP>25%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -75px 0pt;"></td>
+	</tr>
+
+	<tr height="19" style="display:none" id="cbh_141">
+		<td>&nbsp;</td>
+		<td> &raquo; Paul</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center">1 (0)</td>
+		<td align="center">25%</td>
+		<td align="center"><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -75px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP><a href="javascript:switchRowVisibility('cbh_15');"><b>15:00</b></a></td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>2 (0)</td>
+		<td align="center" NOWRAP>50%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -50px 0pt;"></td>
+	</tr>
+
+	<tr height="19" style="display:none" id="cbh_151">
+		<td>&nbsp;</td>
+		<td> &raquo; Paul</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center">2 (0)</td>
+		<td align="center">50%</td>
+		<td align="center"><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -50px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP><a href="javascript:switchRowVisibility('cbh_16');"><b>16:00</b></a></td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>1 (0)</td>
+		<td align="center" NOWRAP>25%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -75px 0pt;"></td>
+	</tr>
+
+	<tr height="19" style="display:none" id="cbh_161">
+		<td>&nbsp;</td>
+		<td> &raquo; Paul</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center">1 (0)</td>
+		<td align="center">25%</td>
+		<td align="center"><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -75px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>17:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>18:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>19:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>20:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>21:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>22:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>23:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>0 (0)</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<br></td>
+				</tr>
+				<tr>
+					<td valign="top" align="right" colspan="3"><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_operator_availability--></span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0" style="display:;">
+							<tr>
+								<td valign="top"><div onClick="expandBlock('oa',true);" class="header_link"><!--lang_stats_expand_all--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div onClick="expandBlock('oa',false);" class="header_link"><!--lang_stats_collapse_all--></div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="12" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_hour--></td>
+					<td align="center" class="bt_column_header" width="25">&nbsp;</td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>00:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>01:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>02:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>03:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>04:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>05:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>06:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>07:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>08:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>09:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>10:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>11:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>12:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>13:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP><a href="javascript:switchRowVisibility('oa_14');"><b>14:00</b></a></td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:29:59</td>
+		<td align="center" NOWRAP>49.97%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -51px 0pt;"></td>
+	</tr>
+
+	<tr height="19" style="display:none" id="oa_141">
+		<td>&nbsp;</td>
+		<td> &raquo; Paul</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center">00:29:59</td>
+		<td align="center">49.97%</td>
+		<td align="center"><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -51px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP><a href="javascript:switchRowVisibility('oa_15');"><b>15:00</b></a></td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:44:27</td>
+		<td align="center" NOWRAP>74.08%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -26px 0pt;"></td>
+	</tr>
+
+	<tr height="19" style="display:none" id="oa_151">
+		<td>&nbsp;</td>
+		<td> &raquo; Paul</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center">00:44:27</td>
+		<td align="center">74.08%</td>
+		<td align="center"><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -26px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP><a href="javascript:switchRowVisibility('oa_16');"><b>16:00</b></a></td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:57:02</td>
+		<td align="center" NOWRAP>95.06%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -5px 0pt;"></td>
+	</tr>
+
+	<tr height="19" style="display:none" id="oa_161">
+		<td>&nbsp;</td>
+		<td> &raquo; Paul</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center">00:57:02</td>
+		<td align="center">95.06%</td>
+		<td align="center"><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -5px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP><a href="javascript:switchRowVisibility('oa_17');"><b>17:00</b></a></td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:32:40</td>
+		<td align="center" NOWRAP>54.44%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -46px 0pt;"></td>
+	</tr>
+
+	<tr height="19" style="display:none" id="oa_171">
+		<td>&nbsp;</td>
+		<td> &raquo; Paul</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center">00:32:40</td>
+		<td align="center">54.44%</td>
+		<td align="center"><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -46px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP><a href="javascript:switchRowVisibility('oa_18');"><b>18:00</b></a></td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:06:54</td>
+		<td align="center" NOWRAP>11.5%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -89px 0pt;"></td>
+	</tr>
+
+	<tr height="19" style="display:none" id="oa_181">
+		<td>&nbsp;</td>
+		<td> &raquo; Paul</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center">00:06:54</td>
+		<td align="center">11.5%</td>
+		<td align="center"><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -89px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>19:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>20:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>21:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP>22:00</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:00:00</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">&nbsp;</td>
+		<td NOWRAP><a href="javascript:switchRowVisibility('oa_23');"><b>23:00</b></a></td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center" NOWRAP>00:03:26</td>
+		<td align="center" NOWRAP>5.72%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -95px 0pt;"></td>
+	</tr>
+
+	<tr height="19" style="display:none" id="oa_231">
+		<td>&nbsp;</td>
+		<td> &raquo; Paul</td>
+		<td align="center" valign="middle">&nbsp;</div></td>
+		<td align="center">00:03:26</td>
+		<td align="center">5.72%</td>
+		<td align="center"><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -95px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<br></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+
+	
+	<tr style="display:;">
+		<td>
+			<a name="ttops"></a>
+			<br>
+			<table cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="header_line">TOPs <!--lang_stats_visitors--></td>
+				</tr>
+				<tr>
+					<td class="header_nav_line">
+						<table cellspacing="0" cellpadding="0">
+							<tr>
+								<td>&nbsp;&nbsp;</td>
+								<td style="display:;"><a href="#tsystems"><!--lang_stats_browser_and_system--></a></td>
+								<td style="display:;">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td style="display:;"><a href="#torigins"><!--lang_stats_origin--></a></td>
+								<td style="display:;">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td style="display:;"><a href="#tvisits"><!--lang_stats_visits--></a></td>
+								<td style="display:;">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td style="display:;"><a href="#tisps"><!--lang_stats_isps--></a></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td colspan="3" valign="top"><a name="tsystems"></a><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_systems--></span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0" style="display:none;">
+							<tr>
+								<td valign="top"><div onClick="expandBlock('',true);" class="header_link"><!--lang_stats_expand_all--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div onClick="expandBlock('',false);" class="header_link"><!--lang_stats_collapse_all--></div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="12" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_system--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP>Windows 7</td>
+		<td align="center" valign="middle"><div class="ico_trend_const"></div></td>
+		<td align="center" NOWRAP>2</td>
+		<td align="center" NOWRAP>100%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -0px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<br></td>
+				</tr>
+				<tr>
+					<td width="440" valign="top"><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_browsers--></span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0" style="display:none;">
+							<tr>
+								<td valign="top"><div onClick="expandBlock('',true);" class="header_link"><!--lang_stats_expand_all--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div onClick="expandBlock('',false);" class="header_link"><!--lang_stats_collapse_all--></div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="12" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_browser--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP>Chrome 1</td>
+		<td align="center" valign="middle"><div class="ico_trend_const"></div></td>
+		<td align="center" NOWRAP>1</td>
+		<td align="center" NOWRAP>50%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -50px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">2</td>
+		<td NOWRAP>Internet Explorer 7</td>
+		<td align="center" valign="middle"><div class="ico_trend_new"></div></td>
+		<td align="center" NOWRAP>1</td>
+		<td align="center" NOWRAP>50%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -50px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<br></td>
+					<td width="*">&nbsp;</td>
+					<td width="440" valign="top" align="right"><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_resolutions--></span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0" style="display:none;">
+							<tr>
+								<td valign="top"><div onClick="expandBlock('',true);" class="header_link"><!--lang_stats_expand_all--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div onClick="expandBlock('',false);" class="header_link"><!--lang_stats_collapse_all--></div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="12" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_resolution--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP>1366 x 768 (32 Bit)</td>
+		<td align="center" valign="middle"><div class="ico_trend_const"></div></td>
+		<td align="center" NOWRAP>2</td>
+		<td align="center" NOWRAP>100%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -0px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<br></td>
+				</tr>
+				<tr>
+					<td colspan="3" valign="top"><a name="torigins"></a><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_cities--></span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0" style="display:none;">
+							<tr>
+								<td valign="top"><div onClick="expandBlock('',true);" class="header_link"><!--lang_stats_expand_all--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div onClick="expandBlock('',false);" class="header_link"><!--lang_stats_collapse_all--></div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="12" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_city--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP><!--lang_stats_unknown--></td>
+		<td align="center" valign="middle"><div class="ico_trend_const"></div></td>
+		<td align="center" NOWRAP>2</td>
+		<td align="center" NOWRAP>100%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -0px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<br></td>
+				</tr>
+				<tr>
+					<td colspan="3" valign="top"><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_regions--></span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0" style="display:none;">
+							<tr>
+								<td valign="top"><div onClick="expandBlock('',true);" class="header_link"><!--lang_stats_expand_all--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div onClick="expandBlock('',false);" class="header_link"><!--lang_stats_collapse_all--></div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="12" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_region--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP><!--lang_stats_unknown--></td>
+		<td align="center" valign="middle"><div class="ico_trend_const"></div></td>
+		<td align="center" NOWRAP>2</td>
+		<td align="center" NOWRAP>100%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -0px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<br></td>
+				</tr>
+				<tr>
+					<td width="440" valign="top"><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_countries--></span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0" style="display:none;">
+							<tr>
+								<td valign="top"><div onClick="expandBlock('',true);" class="header_link"><!--lang_stats_expand_all--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div onClick="expandBlock('',false);" class="header_link"><!--lang_stats_collapse_all--></div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="12" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_country--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP>China</td>
+		<td align="center" valign="middle"><div class="ico_trend_const"></div></td>
+		<td align="center" NOWRAP>2</td>
+		<td align="center" NOWRAP>100%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -0px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<br></td>
+					<td width="*">&nbsp;</td>
+					<td width="440" valign="top" align="right"><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_languages--></span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0" style="display:none;">
+							<tr>
+								<td valign="top"><div onClick="expandBlock('',true);" class="header_link"><!--lang_stats_expand_all--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div onClick="expandBlock('',false);" class="header_link"><!--lang_stats_collapse_all--></div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="12" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_language--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP>Chinese</td>
+		<td align="center" valign="middle"><div class="ico_trend_const"></div></td>
+		<td align="center" NOWRAP>2</td>
+		<td align="center" NOWRAP>100%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -0px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<br></td>
+				</tr>
+				<tr>
+					<td width="440" valign="top"><a name="tvisits"></a><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_visits--></span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0" style="display:none;">
+							<tr>
+								<td valign="top"><div onClick="expandBlock('',true);" class="header_link"><!--lang_stats_expand_all--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div onClick="expandBlock('',false);" class="header_link"><!--lang_stats_collapse_all--></div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="12" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_visits--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP>1</td>
+		<td align="center" valign="middle"><div class="ico_trend_new"></div></td>
+		<td align="center" NOWRAP>1</td>
+		<td align="center" NOWRAP>50%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -50px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">2</td>
+		<td NOWRAP>10</td>
+		<td align="center" valign="middle"><div class="ico_trend_new"></div></td>
+		<td align="center" NOWRAP>1</td>
+		<td align="center" NOWRAP>50%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -50px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<br></td>
+					<td width="*">&nbsp;</td>
+					<td width="440" valign="top" align="right"><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_time_on_page--></span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0" style="display:none;">
+							<tr>
+								<td valign="top"><div onClick="expandBlock('',true);" class="header_link"><!--lang_stats_expand_all--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div onClick="expandBlock('',false);" class="header_link"><!--lang_stats_collapse_all--></div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="12" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_duration--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP>00 - 01 min</td>
+		<td align="center" valign="middle"><div class="ico_trend_const"></div></td>
+		<td align="center" NOWRAP>1</td>
+		<td align="center" NOWRAP>50%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -50px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">2</td>
+		<td NOWRAP>> 60 min</td>
+		<td align="center" valign="middle"><div class="ico_trend_down"></div></td>
+		<td align="center" NOWRAP>1</td>
+		<td align="center" NOWRAP>50%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -50px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<br></td>
+				</tr>
+				<tr>
+					<td colspan="3"><a name="tisps"></a><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_isps--></span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0" style="display:none;">
+							<tr>
+								<td valign="top"><div onClick="expandBlock('',true);" class="header_link"><!--lang_stats_expand_all--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div onClick="expandBlock('',false);" class="header_link"><!--lang_stats_collapse_all--></div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="12" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_isp--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP><!--lang_stats_unknown--></td>
+		<td align="center" valign="middle"><div class="ico_trend_const"></div></td>
+		<td align="center" NOWRAP>2</td>
+		<td align="center" NOWRAP>100%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -0px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<br></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr style="display:;">
+		<td>
+			<br>
+			<table cellspacing="0" cellpadding="0" width="100%">
+				<tr>
+					<td class="header_line">TOPs <!--lang_stats_pages--></td>
+				</tr>
+				<tr>
+					<td class="header_nav_line">
+						<table cellspacing="0" cellpadding="0">
+							<tr>
+								<td>&nbsp;&nbsp;</td>
+								<td style="display:;"><a href="#tpages"><!--lang_stats_pages--></a></td>
+								<td style="display:;">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td style="display:;"><a href="#tentranceexit"><!--lang_stats_entrance_pages--> &amp; <!--lang_stats_exit_pages--></a></td>
+								<td style="display:;">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td style="display:;"><a href="#tsearch"><!--lang_stats_search_engines--></a></td>
+								<td style="display:;">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td style="display:;"><a href="#treferrers"><!--lang_stats_referrers--></a></td>
+								<td style="display:;">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td style="display:;"><a href="#tdomains"><!--lang_stats_domains--></a></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td style="height:200px;" valign="top">
+			<table cellspacing="0" cellpadding="0" width="100%" id="p_pages">
+				<tr>
+					<td><a name="tpages"></a><table width="100%" cellspacing="0" cellpadding="0" id="p_url_top_9">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_pages--> (URL)</span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0">
+							<tr>
+								<td valign="top"><div onClick="switchVisibility('p_title_top_9','header');switchVisibility('p_url_top_9','header');" class="header_link"><!--lang_stats_titles--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div class="header_link_selected">URL</div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="15" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_page--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP><a href="http://dereferrer.livezilla.biz/?url=localhost:/Users/Floyd/AppData/Local/Temp/tmpB66D.html" target="_blank">localhost:/Users/Floyd/AppData/Local/Temp/tmpB66D.html</a></td>
+		<td align="center" valign="middle"><div class="ico_trend_new"></div></td>
+		<td align="center" NOWRAP>1</td>
+		<td align="center" NOWRAP>50%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -50px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">2</td>
+		<td NOWRAP><a href="http://dereferrer.livezilla.biz/?url=http://e8ocs.com/" target="_blank">http://e8ocs.com/</a></td>
+		<td align="center" valign="middle"><div class="ico_trend_down"></div></td>
+		<td align="center" NOWRAP>1</td>
+		<td align="center" NOWRAP>50%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -50px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<table width="100%" cellspacing="0" cellpadding="0" style="display:none;" id="p_title_top_9">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_pages--> (<!--lang_stats_titles-->)</span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0">
+							<tr>
+								<td valign="top"><div class="header_link_selected"><!--lang_stats_titles--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div onClick="switchVisibility('p_title_top_9','header');switchVisibility('p_url_top_9','header');" class="header_link">URL</div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="15" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_page--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP><a href="http://dereferrer.livezilla.biz/?url=localhost:/Users/Floyd/AppData/Local/Temp/tmpB66D.html" target="_blank">LiveZilla Server Admin (Preview)</a></td>
+		<td align="center" valign="middle"><div class="ico_trend_new"></div></td>
+		<td align="center" NOWRAP>1</td>
+		<td align="center" NOWRAP>50%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -50px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">2</td>
+		<td NOWRAP><a href="http://dereferrer.livezilla.biz/?url=http://e8ocs.com/" target="_blank">LiveZilla Server Page</a></td>
+		<td align="center" valign="middle"><div class="ico_trend_down"></div></td>
+		<td align="center" NOWRAP>1</td>
+		<td align="center" NOWRAP>50%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -50px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+
+<br></td>
+				</tr>
+			</table>
+			<table cellspacing="0" cellpadding="0" width="100%" id="p_entrance_exit_pages">
+				<tr>
+					<td><a name="tentranceexit"></a><table width="100%" cellspacing="0" cellpadding="0" id="p_url_top_17">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_entrance_pages--> (URL)</span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0">
+							<tr>
+								<td valign="top"><div onClick="switchVisibility('p_title_top_17','header');switchVisibility('p_url_top_17','header');" class="header_link"><!--lang_stats_titles--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div class="header_link_selected">URL</div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="15" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_page--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP><a href="http://dereferrer.livezilla.biz/?url=localhost:/Users/Floyd/AppData/Local/Temp/tmpB66D.html" target="_blank">localhost:/Users/Floyd/AppData/Local/Temp/tmpB66D.html</a></td>
+		<td align="center" valign="middle"><div class="ico_trend_new"></div></td>
+		<td align="center" NOWRAP>1</td>
+		<td align="center" NOWRAP>50%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -50px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">2</td>
+		<td NOWRAP><a href="http://dereferrer.livezilla.biz/?url=http://e8ocs.com/" target="_blank">http://e8ocs.com/</a></td>
+		<td align="center" valign="middle"><div class="ico_trend_down"></div></td>
+		<td align="center" NOWRAP>1</td>
+		<td align="center" NOWRAP>50%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -50px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<table width="100%" cellspacing="0" cellpadding="0" style="display:none;" id="p_title_top_17">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_entrance_pages--> (<!--lang_stats_titles-->)</span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0">
+							<tr>
+								<td valign="top"><div class="header_link_selected"><!--lang_stats_titles--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div onClick="switchVisibility('p_title_top_17','header');switchVisibility('p_url_top_17','header');" class="header_link">URL</div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="15" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_page--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP><a href="http://dereferrer.livezilla.biz/?url=localhost:/Users/Floyd/AppData/Local/Temp/tmpB66D.html" target="_blank">LiveZilla Server Admin (Preview)</a></td>
+		<td align="center" valign="middle"><div class="ico_trend_new"></div></td>
+		<td align="center" NOWRAP>1</td>
+		<td align="center" NOWRAP>50%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -50px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">2</td>
+		<td NOWRAP><a href="http://dereferrer.livezilla.biz/?url=http://e8ocs.com/" target="_blank">LiveZilla Server Page</a></td>
+		<td align="center" valign="middle"><div class="ico_trend_down"></div></td>
+		<td align="center" NOWRAP>1</td>
+		<td align="center" NOWRAP>50%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -50px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+
+</td>
+				</tr>
+				<tr>
+					<td><br><table width="100%" cellspacing="0" cellpadding="0" id="p_url_top_19">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_exit_pages--> (URL)</span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0">
+							<tr>
+								<td valign="top"><div onClick="switchVisibility('p_title_top_19','header');switchVisibility('p_url_top_19','header');" class="header_link"><!--lang_stats_titles--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div class="header_link_selected">URL</div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="15" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_page--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP><a href="http://dereferrer.livezilla.biz/?url=localhost:/Users/Floyd/AppData/Local/Temp/tmpB66D.html" target="_blank">localhost:/Users/Floyd/AppData/Local/Temp/tmpB66D.html</a></td>
+		<td align="center" valign="middle"><div class="ico_trend_new"></div></td>
+		<td align="center" NOWRAP>1</td>
+		<td align="center" NOWRAP>50%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -50px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">2</td>
+		<td NOWRAP><a href="http://dereferrer.livezilla.biz/?url=http://e8ocs.com/" target="_blank">http://e8ocs.com/</a></td>
+		<td align="center" valign="middle"><div class="ico_trend_down"></div></td>
+		<td align="center" NOWRAP>1</td>
+		<td align="center" NOWRAP>50%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -50px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<table width="100%" cellspacing="0" cellpadding="0" style="display:none;" id="p_title_top_19">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_exit_pages--> (<!--lang_stats_titles-->)</span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0">
+							<tr>
+								<td valign="top"><div class="header_link_selected"><!--lang_stats_titles--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div onClick="switchVisibility('p_title_top_19','header');switchVisibility('p_url_top_19','header');" class="header_link">URL</div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="15" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_page--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP><a href="http://dereferrer.livezilla.biz/?url=localhost:/Users/Floyd/AppData/Local/Temp/tmpB66D.html" target="_blank">LiveZilla Server Admin (Preview)</a></td>
+		<td align="center" valign="middle"><div class="ico_trend_new"></div></td>
+		<td align="center" NOWRAP>1</td>
+		<td align="center" NOWRAP>50%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -50px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">2</td>
+		<td NOWRAP><a href="http://dereferrer.livezilla.biz/?url=http://e8ocs.com/" target="_blank">LiveZilla Server Page</a></td>
+		<td align="center" valign="middle"><div class="ico_trend_down"></div></td>
+		<td align="center" NOWRAP>1</td>
+		<td align="center" NOWRAP>50%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -50px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+
+<br></td>
+				</tr>
+			</table>
+			<table cellspacing="0" cellpadding="0" width="100%" id="p_search">
+				<tr>
+					<td><a name="tsearch"></a><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_search_phrases--></span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0" style="display:none;">
+							<tr>
+								<td valign="top"><div onClick="expandBlock('',true);" class="header_link"><!--lang_stats_expand_all--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div onClick="expandBlock('',false);" class="header_link"><!--lang_stats_collapse_all--></div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="12" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_search_phrase--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP><!--lang_stats_none--></td>
+		<td align="center" valign="middle"><div class="ico_trend_const"></div></td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+</td>
+				</tr>
+				<tr>
+					<td><br><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_search_engines--></span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0" style="display:none;">
+							<tr>
+								<td valign="top"><div onClick="expandBlock('',true);" class="header_link"><!--lang_stats_expand_all--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div onClick="expandBlock('',false);" class="header_link"><!--lang_stats_collapse_all--></div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="12" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_search_engines--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP><!--lang_stats_none--></td>
+		<td align="center" valign="middle"><div class="ico_trend_const"></div></td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+</td>
+				</tr>
+				<tr>
+					<td><br><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_crawlers--></span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0" style="display:none;">
+							<tr>
+								<td valign="top"><div onClick="expandBlock('',true);" class="header_link"><!--lang_stats_expand_all--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div onClick="expandBlock('',false);" class="header_link"><!--lang_stats_collapse_all--></div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="12" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_crawler--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP><!--lang_stats_none--></td>
+		<td align="center" valign="middle"><div class="ico_trend_const"></div></td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<br></td>
+				</tr>
+			</table>
+			<table cellspacing="0" cellpadding="0" width="100%" id="p_referrers">
+				<tr>
+					<td><a name="treferrers"></a><table width="100%" cellspacing="0" cellpadding="0" id="p_url_top_30">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_referrers--> (URL)</span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0">
+							<tr>
+								<td valign="top"><div onClick="switchVisibility('p_title_top_30','header');switchVisibility('p_url_top_30','header');" class="header_link">Domains</div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div class="header_link_selected">URL</div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="15" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_referrer--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP><!--lang_stats_none--></td>
+		<td align="center" valign="middle"><div class="ico_trend_const"></div></td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<table width="100%" cellspacing="0" cellpadding="0" style="display:none;" id="p_title_top_30">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_referrers--> (Domains)</span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0">
+							<tr>
+								<td valign="top"><div class="header_link_selected">Domains</div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div onClick="switchVisibility('p_title_top_30','header');switchVisibility('p_url_top_30','header');" class="header_link">URL</div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="15" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_referrer--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP><!--lang_stats_none--></td>
+		<td align="center" valign="middle"><div class="ico_trend_const"></div></td>
+		<td align="center" NOWRAP>0</td>
+		<td align="center" NOWRAP>0%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -100px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+
+<br></td>
+				</tr>
+			</table>
+			<table cellspacing="0" cellpadding="0" width="100%" id="p_domains">
+				<tr>
+					<td><a name="tdomains"></a><table width="100%" cellspacing="0" cellpadding="0">
+	<tr>
+		<td class="bt_header">
+			<table width="100%" cellspacing="0" cellpadding="0">
+				<tr>
+					<td><span class="bt_sub_header"><!--lang_stats_domains--></span></td>
+					<td align="right" valign="bottom">
+						<table cellspacing="0" cellpadding="0" style="display:none;">
+							<tr>
+								<td valign="top"><div onClick="expandBlock('',true);" class="header_link"><!--lang_stats_expand_all--></div></td>
+								<td valign="top">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+								<td valign="top"><div onClick="expandBlock('',false);" class="header_link"><!--lang_stats_collapse_all--></div></td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table class="bt_values" cellspacing="0" cellpadding="1" width="100%">
+				<tr>
+					<td class="bt_column_header" width="12" height="19">&nbsp;</td>
+					<td class="bt_column_header" width="*" NOWRAP><!--lang_stats_domain--></td>
+					<td align="center" class="bt_column_header" width="25"><!--lang_stats_trend--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_absolute--></td>
+					<td align="center" class="bt_column_header" width="50"><!--lang_stats_relative--></td>
+					<td align="center" class="bt_column_header" width="104"><!--lang_stats_chart--></td>
+				</tr>
+				
+	<tr>
+		<td height="19">1</td>
+		<td NOWRAP>http://e8ocs.com</td>
+		<td align="center" valign="middle"><div class="ico_trend_const"></div></td>
+		<td align="center" NOWRAP>1</td>
+		<td align="center" NOWRAP>50%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -50px 0pt;"></td>
+	</tr>
+
+	<tr>
+		<td height="19">2</td>
+		<td NOWRAP>localhost</td>
+		<td align="center" valign="middle"><div class="ico_trend_new"></div></td>
+		<td align="center" NOWRAP>1</td>
+		<td align="center" NOWRAP>50%</td>
+		<td align="center" NOWRAP><img class="chart" src="" width="102" alt="0%" title="0%" style="background-position: -50px 0pt;"></td>
+	</tr>
+
+			</table>
+		</td>
+	</tr>
+</table>
+<br></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>

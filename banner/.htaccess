@@ -1,0 +1,24 @@
+<Files *>
+Order Allow,Deny
+Deny from All
+</Files>
+
+<Files *.gif>
+Order Allow,Deny
+Allow from All
+</Files>
+
+<Files *.jpg>
+Order Allow,Deny
+Allow from All
+</Files>
+
+<Files *.png>
+Order Allow,Deny
+Allow from All
+</Files>
+
+<Files *.ico>
+Order Allow,Deny
+Allow from All
+</Files>
