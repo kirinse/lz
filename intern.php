@@ -25,7 +25,6 @@ validate();
 
 if(defined("VALIDATED"))
 {
-	file_put_contents('./_log/a.txt', '-------------'."\n", FILE_APPEND);
 	if($_POST[POST_INTERN_SERVER_ACTION]==INTERN_ACTION_LISTEN || $_POST[POST_INTERN_SERVER_ACTION]==INTERN_ACTION_LOGIN)
 	{
 		listenXML();
