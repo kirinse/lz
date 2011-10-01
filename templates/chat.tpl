@@ -6,9 +6,6 @@
 </noscript>
 <META NAME="description" CONTENT="<!--config_gl_desc-->">
 <META NAME="keywords" CONTENT="<!--config_gl_keywords-->">
-<META NAME="author" CONTENT="LiveZilla GmbH">
-<META NAME="Copyright" CONTENT="LiveZilla GmbH">
-<META NAME="generator" CONTENT="LiveZilla GmbH - http://www.livezilla.net">
 <META NAME="audience" CONTENT="All">
 <META NAME="robots" CONTENT="index,follow">
 <title><!--config_gl_site_name--></title>

@@ -1,14 +1,15 @@
 <?php
 /****************************************************************************************
 * LiveZilla index.php
-* 
+*
 * Copyright 2011 LiveZilla GmbH
 * All rights reserved.
 * LiveZilla is a registered trademark.
-* 
+*
 * Improper changes to this file may cause critical errors.
-***************************************************************************************/ 
-
+***************************************************************************************/
+header('HTTP/1.1 403 Forbidden');
+exit();
 define("IN_LIVEZILLA",true);
 if(!defined("LIVEZILLA_PATH"))
 	define("LIVEZILLA_PATH","./");
