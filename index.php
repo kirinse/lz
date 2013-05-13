@@ -8,8 +8,10 @@
 *
 * Improper changes to this file may cause critical errors.
 ***************************************************************************************/
-// header('HTTP/1.1 403 Forbidden');
-// exit();
+
+header('HTTP/1.1 403 Forbidden');
+exit();
+
 define("IN_LIVEZILLA",true);
 if(!defined("LIVEZILLA_PATH"))
 	define("LIVEZILLA_PATH","./");
