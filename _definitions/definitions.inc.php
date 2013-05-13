@@ -146,7 +146,7 @@ define("FILE_INDEX","index.html");
 define("FILE_INDEX_OLD","index.htm");
 define("FILE_CHAT","chat.php");
 define("FILE_CONFIG",LIVEZILLA_PATH . "_config/config.inc.php");
-define("SCHEME_HTTP","https://");
+define("SCHEME_HTTP","http://");
 define("SCHEME_HTTP_SECURE","https://");
 define("EX_FILE_UPLOAD_REQUEST","lzar");
 
